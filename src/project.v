@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_analog_example (
+module tt_um_test_17 (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
